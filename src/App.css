@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input[type='text'] {
+  display: block;
+  margin: 0 auto 10px auto; 
+  padding: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 300px; 
+}
+
+textarea {
+  margin: 0 auto 10px auto; 
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+button {
+  margin: 10px;
+  width: 40%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #007bff;
+}
+
+.notes-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.note {
+  width: 50%;
+  border: 1px solid #01060a;
+  padding: 10px;
+  margin: 10px;
+}
