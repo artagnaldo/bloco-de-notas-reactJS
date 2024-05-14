@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/artagnaldo/bloco-de-notas-reactjs/static/css/main.f6e84a85.css",
-    "main.js": "/artagnaldo/bloco-de-notas-reactjs/static/js/main.3aeca3e2.js",
-    "static/js/453.12a04529.chunk.js": "/artagnaldo/bloco-de-notas-reactjs/static/js/453.12a04529.chunk.js",
-    "index.html": "/artagnaldo/bloco-de-notas-reactjs/index.html",
-    "main.f6e84a85.css.map": "/artagnaldo/bloco-de-notas-reactjs/static/css/main.f6e84a85.css.map",
-    "main.3aeca3e2.js.map": "/artagnaldo/bloco-de-notas-reactjs/static/js/main.3aeca3e2.js.map",
-    "453.12a04529.chunk.js.map": "/artagnaldo/bloco-de-notas-reactjs/static/js/453.12a04529.chunk.js.map"
+    "main.css": "/relativepath/static/css/main.f6e84a85.css",
+    "main.js": "/relativepath/static/js/main.842be427.js",
+    "static/js/453.12a04529.chunk.js": "/relativepath/static/js/453.12a04529.chunk.js",
+    "index.html": "/relativepath/index.html",
+    "main.f6e84a85.css.map": "/relativepath/static/css/main.f6e84a85.css.map",
+    "main.842be427.js.map": "/relativepath/static/js/main.842be427.js.map",
+    "453.12a04529.chunk.js.map": "/relativepath/static/js/453.12a04529.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6e84a85.css",
-    "static/js/main.3aeca3e2.js"
+    "static/js/main.842be427.js"
   ]
 }
