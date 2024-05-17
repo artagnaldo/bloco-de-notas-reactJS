@@ -18,7 +18,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/artagnaldo/bloco-de-notas-reactjs",
+  "homepage": "https://artagnaldo.github.io/bloco-de-notas-reactjs/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
